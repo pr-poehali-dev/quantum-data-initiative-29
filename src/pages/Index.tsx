@@ -11,7 +11,7 @@ export default function Index() {
           <a href="#">Атмосфера</a>
           <a href="#">Контакты</a>
         </nav>
-        <button className="btn-cta">Заказать</button>
+        <a href="https://vk.ru/club236977020" target="_blank" rel="noopener noreferrer" className="btn-cta" style={{ textDecoration: "none" }}>ВКонтакте</a>
       </header>
 
       <main>
