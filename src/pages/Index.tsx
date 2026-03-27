@@ -244,7 +244,7 @@ export default function Index() {
         <div className="footer-bottom">
           <span>2025 COFFEE TIME</span>
           <span>КОФЕ С ХАРАКТЕРОМ</span>
-          <span>IG / TG / VK</span>
+          <a href="https://vk.ru/club236977020" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>ВКонтакте</a>
         </div>
       </footer>
     </>
